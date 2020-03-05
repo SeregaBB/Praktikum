@@ -1,0 +1,19 @@
+
+
+.video__title {
+    position: absolute;
+    top: 189px;
+    left: 30px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 39px;
+    z-index: 1;
+    margin: 0;
+    cursor: pointer;
+}
+
+
+.video__title:hover {
+    text-decoration-line: underline;
+}

@@ -1,0 +1,9 @@
+@import url('__left/two-columns__left.css');
+@import url('__right/two-columns__right.css');
+
+.two-columns {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}

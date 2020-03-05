@@ -1,0 +1,12 @@
+@import url('__lang/header__lang.css');
+
+
+.header {
+    position: relative;
+    width: 1184px;
+    margin: 0 auto 48px;
+    display: grid;
+    grid-template-columns: auto 30px 30px;
+    grid-column-gap: 18px;
+    align-items: end;
+}

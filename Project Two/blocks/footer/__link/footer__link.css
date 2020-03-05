@@ -1,0 +1,18 @@
+
+.footer__link {
+    margin-right: 18px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 41px;
+    color: #fff;
+    text-decoration-line: none;
+}
+
+.footer__link:last-child {
+    margin: 0;
+}
+
+.footer__link:hover{
+    color: rgb(100, 99, 99);
+}

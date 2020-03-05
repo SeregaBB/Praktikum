@@ -1,0 +1,8 @@
+
+
+.emblem__container {
+    display: grid;
+    grid-template-columns: repeat(5,208px);
+    grid-column-gap: 46px;
+    justify-content: center;
+}

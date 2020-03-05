@@ -1,0 +1,11 @@
+
+.additional__item {
+    width: 284px;
+    border-radius: 5px;
+    position: relative;
+    margin: 0 16px 0 0;
+}
+
+.additional__item:last-child {
+    margin: 0;
+}
